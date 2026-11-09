@@ -1,4 +1,4 @@
-# hey
+# hey, i'm Loveyy 👋
 
 I make things for the web and desktop, and like figuring out how software fits together.
 
