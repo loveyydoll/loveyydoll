@@ -1,16 +1,14 @@
-## Hi there 👋
+# hey, i'm rodri 👋
 
-<!--
-**loveyydoll/loveyydoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I make things for the web and desktop, and like figuring out how software fits together.
 
-Here are some ideas to get you started:
+### what i use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Platforms:** Windows · macOS · iOS  
+**Languages & tools:** HTML · CSS · JavaScript · PHP · Python · C# · .NET · Rust · Tauri
+
+### apps in my orbit
+
+VS Code · Visual Studio · GitHub · Figma · Blender · FL Studio · Ableton Live
+
+Always tinkering with something. ✨
